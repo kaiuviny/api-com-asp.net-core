@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k2eoQ5Tf0Iv/BYs4bU11jwZXN2/Li/FBNA42VkzbGz2Q7620/TBHWBR6ZFtXbbpEJ2vB7CtqHZcY06gR4sebbA==",
+  "dgSpecHash": "NL34mcvA3gL6VwVJD+pTBgdEPpqDRsTMn39pMTPPW/l5WvFwDmL7Ea3WsmBlQiIf5DDP0DxvgCkWrne9MEU7tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaiuv\\source\\repos\\api-com-asp.net-core\\conceitos\\conceitos.csproj",
+  "projectFilePath": "c:\\Users\\kaiuv\\source\\repos\\api-com-asp.net-core\\conceitos\\conceitos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaiuv\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\kaiuv\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

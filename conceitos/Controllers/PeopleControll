@@ -1,4 +1,12 @@
+//using Microsoft.AspNetCore.Mvc;
+
+[ApiController]
+[Route("people")]
 public class PeopleControll : ControllerBase
 {
-
+    [HttpGet]
+    public string MinhaPrimeiraRota()
+    {
+        return "Hello World!";
+    }
 }
